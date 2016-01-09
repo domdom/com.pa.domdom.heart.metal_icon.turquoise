@@ -1,15 +1,15 @@
 {
     "author": "dom314",
-    "build": "80187",
     "context": "client",
-    "date": "2015/04/07",
+    "build": "89755",
+    "date": "2016/01/09",
     "description": "Makes metal icons heart shaped and turquoise instead",
     "display_name": "Heart Metal Icon: Turquoise",
     "icon" : "http://i.imgur.com/H7E448V.png",
     "forum": "https://forums.uberent.com/threads/rel-client-heart-metal-icons.68520/",
     "identifier": "com.pa.domdom.heart.metal_icon.turquoise",
-    "version": "1.0.0",
-    "category": ["in-game", "effects"],
+    "version": "1.0.1",
+    "category": ["in-game", "strategic-icons", "hearts"],
     "priority": 100,
     "enabled": true
 }
